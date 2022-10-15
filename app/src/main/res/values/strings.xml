@@ -1,0 +1,323 @@
+<resources>
+    <string name="app_name">Guru</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_tracks">Tracks</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_journal">Journal</string>
+    <string name="swamij">Swami Jnaneshvara Bharati</string>
+    <string name="logoURL">https://logomakr.com/7LiBI2</string>
+    <string name="logo2">https://logomakr.com/4QYwX9</string>
+
+
+    <!--Self Observation-->
+    <string name="self_observation">SELF OBSERVATION</string>
+    <string name="self_observation1"> Lovingly serve others today.</string>
+    <string name="self_observation2">Observe one of the yamas (non-violence, truthfulness, non-stealing, continence or Brahmacharya, nonmaterialism), directing your actions and speech, while observing your thoughts.</string>
+    <string name="self_observation3">Allow your actions to come from conscious choice rather than as a result of habit.</string>
+    <string name="self_observation4">Observe one of the niyamas (purity, contentment, training senses, self-study, surrender)</string>
+    <string name="self_observation5">Observe all of your actions and ask yourself, “why am I doing this action?”</string>
+    <string name="self_observation6">Observe one of the five elements (earth, water, fire, air, space), externally and internally.</string>
+    <string name="self_observation7">Witness everything, external and internal.</string>
+    <string name="self_observation8">Observe one of the five cognitive senses (hearing, touching, seeing, tasting, smelling).</string>
+    <string name="self_observation9">Be aware of your breath today, noticing its qualities and how it relates to thoughts and emotions.</string>
+    <string name="self_observation10">Observe one of the five active senses (speaking, grasping, moving, reproducing, eliminating).</string>
+    <string name="self_observation11">Notice how fears can control you, and how fears are related to imagination.</string>
+    <string name="self_observation12">Observe one of the four functions of mind (manas, chitta, ahamkara, buddhi).</string>
+    <string name="self_observation13">Speak very little today—only what is accurate, purposeful, and non-hurting.</string>
+    <string name="self_observation14">Observe your reactions when a desire, expectation, want, or need is or is not fulfilled.</string>
+    <string name="self_observation15">Observe your gestures and body language, noticing how they reflect thoughts and emotions.</string>
+    <string name="self_observation16">Observe one of the yamas (non-violence,truthfulness,non-stealing, continence or Brahmacharya, nonmaterialism), directing your actions and speech, while observing your thoughts.</string>
+    <string name="self_observation17">Practice one-pointedness, paying attention to whatever you are doing today.</string>
+    <string name="self_observation18">Observe one of the niyamas (purity,contentment, training senses, self-study, surrender)</string>
+    <string name="self_observation19">Resolve that today “I will love every one and not hate anyone today.”</string>
+    <string name="self_observation20">Observe one of the five elements (earth, water, fire, air, space), externally and internally.</string>
+    <string name="self_observation21">Observe whether your “first thoughts” or “second thoughts” are good or bad, clear or clouded.</string>
+    <string name="self_observation22">Observe one of the five cognitive senses (hearing, touching, seeing, tasting, smelling).</string>
+    <string name="self_observation23">Be aware of the principle of meditation in action.</string>
+    <string name="self_observation24">Observe one of the five active senses (speaking, grasping, moving, reproducing, eliminating).</string>
+    <string name="self_observation25">Be aware of how you adjust to changing circumstances around you.</string>
+    <string name="self_observation26">Observe one of the four functions of mind (manas, chitta, ahamkara, buddhi).</string>
+    <string name="self_observation27">Observe how you relate to other people.</string>
+    <string name="self_observation28">Observe your reactions when a desire, expectation, want, or need is or is not fulfilled.</string>
+    <string name="self_observation29">Notice which thoughts coming into your mind are “useful” or “not useful.”</string>
+    <string name="self_observation30">Choose one of the primitive fountains (food, sleep, sex, self-preservation) and observe how it affects your other desires, emotions, thoughts, speech, and actions.</string>
+    <string name="self_observation31">Witness everything, external and internal (in months which have 31 days).</string>
+
+    <!--Internal Dialogue-->
+    <string name="internal_dialogue">INTERNAL DIALOGUE</string>
+
+    <string name="internal_dialogue1">Dialogue with yourself about mistakes you have made. Don’t condemn yourself or be judgmental.</string>
+    <string name="internal_dialogue2">When sitting for meditation, ask your mind to go to, and to heal aching parts. When you attempt sushumna application, ask your mind to focus on the nose bridge.</string>
+    <string name="internal_dialogue3">Ask yourself, “what do I want?” Raise questions about the purpose of life.</string>
+    <string name="internal_dialogue4">Explain to your mind that it is too worldly and materialistic.</string>
+    <string name="internal_dialogue5">Train the senses by using dialogue; actually dialogue with the individual ten senses.</string>
+    <string name="internal_dialogue6">Ask yourself if you want to meditate, to explore, to know yourself, and to choose your habits.</string>
+    <string name="internal_dialogue7">Ask how you think, why you are emotional, and what the problems are with your mind.</string>
+    <string name="internal_dialogue8">Establish a relationship, a friendship with your mind; learn to love by being gentle with yourself.</string>
+    <string name="internal_dialogue9">Ask yourself, “what do I want?” This may relate to small things or to the purpose of life.</string>
+    <string name="internal_dialogue10">Tell the mind that it has become dissipated, and should tread the path of light, love, and devotion.</string>
+    <string name="internal_dialogue11">Self-counsel about negative emotions. When upset, ask, “why am I thinking like this?”</string>
+    <string name="internal_dialogue12">Ask your mind to open a blocked nostril for you. Ask your mind to flow with the breath.</string>
+    <string name="internal_dialogue13">Consider some problem and ask your mind “what are some solutions? what should I do?”.</string>
+    <string name="internal_dialogue14">Dialogue with that whatever is being observed, including mental objects and thoughts.</string>
+    <string name="internal_dialogue15">Ask yourself, “what do I want?” Remind yourself of your real identity.</string>
+    <string name="internal_dialogue16">Ask yourself why you are doing certain actions. How do the actions reflect thoughts and emotions?</string>
+    <string name="internal_dialogue17">Say to your mind, “please be my friend.” How does your mind respond?</string>
+    <string name="internal_dialogue18">Ask your mind what you have to do. Ask why you sometimes do not do what you want to do.</string>
+    <string name="internal_dialogue19">When distracting thoughts come, remind yourself of your purpose; tell yourself that this thought or desire is distracting and will lead you to a fantasy.</string>
+    <string name="internal_dialogue20">Ask “does my ego get in my way or not?” Spend a few minutes simply being honest with yourself.</string>
+    <string name="internal_dialogue21">Ask yourself, “what do I want?” This may relate to small things or to the purpose of life.</string>
+    <string name="internal_dialogue22">Ask why you become emotionally disorganized, forget things, and do not attend to things properly.</string>
+    <string name="internal_dialogue23">When sitting for meditation, say to your mind, “mind, please go beyond the senses.”</string>
+    <string name="internal_dialogue24">While doing breathing practices ask your mind to “please flow with the breath.”</string>
+    <string name="internal_dialogue25">Make a contract with the mind to let the mind whisper those inner secrets to you, and put all things in front of your mind. Discuss this “contract” with your mind.</string>
+    <string name="internal_dialogue26">Ask the mind why it disturbs you in meditation. How can meditation be improved?</string>
+    <string name="internal_dialogue27">Ask yourself, “what do I want?” You will learn many things when you dialogue.</string>
+    <string name="internal_dialogue28">Consider some choices you face in life and ask buddhi, “should I do it or not?”</string>
+    <string name="internal_dialogue29">Ask “is my first thought good or bad—is it clear or clouded?” Your second or third thoughts?</string>
+    <string name="internal_dialogue30">Ask your mind what your fears are and what to do with them.</string>
+    <string name="internal_dialogue31">Say to your mind “please be my friend.” (in months with have 31 days )</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="meditation3min">3-Minute Meditation</string>
+    <string name="meditation7min">7-Minute Meditation</string>
+    <string name="meditation11min">11-minute Meditation</string>
+    <string name="survey_of_body">Survey of Body</string>
+    <string name="_61points">61 Points</string>
+    <string name="ascending_breath">Ascending Breath</string>
+    <string name="yoga_nidra">Yoga Nidra</string>
+    <string name="mantras">Mantras</string>
+    <string name="daily_practice">Daily Practice</string>
+    <string name="tracks">Tracks</string>
+    <string name="show">Show</string>
+    <string name="hide">Hide</string>
+    <string name="meditation30min">30-minute Meditation</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="theme">Theme</string>
+    <string name="profile">Profile</string>
+    <string name="login">Log In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="incorrect_password">Email and password combination is incorrect</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="or">OR</string>
+    <string name="your_name">Your name</string>
+    <string name="password_reenter">Re-enter password</string>
+    <string name="register">Register</string>
+    <string name="already_have_account">I already have an account</string>
+    <string name="log_in_page">Go log in</string>
+    <string name="error">Error</string>
+    <string name="confirmation_email1">A confirmation link has been sent to your email address. </string>
+    <string name="confirmation_email2">Open your email and click on the link to finish registration.</string>
+    <string name="enter_all_fields">Please enter all fields</string>
+    <string name="logged_in">successfully logged in</string>
+    <string name="password_sent">Reset instructions sent to email address</string>
+    <string name="changename">Change name</string>
+    <string name="change">Change</string>
+    <string name="logout">Log Out</string>
+    <string name="logged_out">Logged Out</string>
+    <string name="link_already_clicked">I have already clicked the link</string>
+    <string name="airplanemode">Airplane Mode</string>
+    <string name="airplanemode_meditation">Airplane mode during meditation</string>
+    <string name="meditation">Meditation</string>
+    <string name="settings">Settings</string>
+    <string name="self_awareness_assessment">Self-Awareness Assessment</string>
+    <string name="self_awareness_assessment_outline">Self-Awareness Assessment outline</string>
+    <string name="assessment_intro">Our approach  to  teaching  and training  at Abhyasa  Ashram  is  one  of coaching  in  one-to-one  or  small  group  sessions  (satsang).  The purpose of coaching sessions on the Self-Assessment outline  is to help  you  learn how to self-assess.  The  Self-Assessment  is  truly  intended  to  be  an  assessment by  yourself of  yourself. The coach is not here to analyze you or diagnose you like a typical medical or psychological assessment might be done. It is your personal exploration of your own current state of life and being. The coach has done this before and is here to facilitate your own introspection and observation.The items of self-awareness listed below are from the perspective of yoga as seen through the tradition. By increasing self-awareness one gradually comes to see that these are not who we really are, which leads to the realization of the witness of these, the true Self.</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="assessment_what_to_look_for">What to look for in each area of self-assessment?</string>
+    <string name="assessment_for_each_of_the_areas">For each of the areas of self-assessment, have the following orientations of what to look for:</string>
+    <string name="areas_of_assessment_bullet_1">• What am I doing well that I need to continue doing?</string>
+    <string name="areas_of_assessment_bullet_2">• What am I doing that I need to do more of?</string>
+    <string name="areas_of_assessment_bullet_3">• What am I doing that I need to reduce or stop doing entirely?</string>
+    <string name="areas_of_assessment_bullet_4">• What am I not doing that I need to start doing?</string>
+    <string name="areas_of_assessment_bullet_5">• In what way does this relate to my current situation?</string>
+    <string name="areas_of_assessment_bullet_6">• How might I plan with this in relation to my future situation?</string>
+    <string name="frequency_of_assessments">Frequency of Self-Assessments</string>
+    <string name="frequency_bullet1">• Initial Self-Assessment with coach</string>
+    <string name="frequency_bullet2">• Ongoing Self-Assessment and training</string>
+    <string name="frequency_bullet3">• Monthly scanning Self-Assessment</string>
+    <string name="frequency_bullet4">• Quarterly complete Self-Assessment and needs analysis</string>
+    <string name="frequency_bullet5">• Annual thorough Self-Assessment with coach</string>
+    <string name="assessment_instructions">Wherever  there  are  points  that  draw your  attention,  for  which  you  have  some need to do something, change something, etc., then check that  item and make your note  in the space  below. Press next or swipe left to start the self-awareness assessment.</string>
+    <string name="assessment_lots_of_jargon">Initially, this may  seem  complex  with lots of jargon to memorize. Rather quickly, however, it becomes  natural  to  witness  these  aspects  of  your  being.  Gradually,  you  come  to  realize  the one  who  is  observing  these  various  aspects  of  our  self-structure  (antahkarana,  or  inner-instrument). This leads to the doorway of deep meditation and contemplation.</string>
+
+    <string name="five_states">Five States Of Mind</string>
+    <string name="five_states1">Kshipta/Disturbed</string>
+    <string name="five_states2">Mudha/Dull</string>
+    <string name="five_states3">Vikshipta/Distracted</string>
+    <string name="five_states4">Ekagra/One-Pointed</string>
+    <string name="five_states5">Nirodhah/Mastered</string>
+
+    <string name="five_efforts">Five Efforts</string>
+    <string name="five_efforts1">Shraddha/Faith</string>
+    <string name="five_efforts2">Virya/Effort</string>
+    <string name="five_efforts3">Smriti/Remembrance</string>
+    <string name="five_efforts4">Samadhi/Deep-Absorption</string>
+    <string name="five_efforts5">Prajna/Wisdom</string>
+
+    <string name="four_attitudes">Four Attitudes</string>
+    <string name="four_attitudes1">Friendliness</string>
+    <string name="four_attitudes2">Compassion</string>
+    <string name="four_attitudes3">Goodwill/Supportiveness</string>
+    <string name="four_attitudes4">Neutrality/Acceptance</string>
+
+    <string name="four_functions_of_mind">Four Functions of Mind</string>
+    <string name="four_functions_of_mind1">Manas/Sensory-motor mind</string>
+    <string name="four_functions_of_mind2">Buddhi/Conscience</string>
+    <string name="four_functions_of_mind3">Chitta/Storehouse of Memories</string>
+    <string name="four_functions_of_mind4">Ahamkara/Ego</string>
+
+    <string name="four_primitive_urges">Four Primitive Urges</string>
+    <string name="four_primitive_urges1">Food</string>
+    <string name="four_primitive_urges2">Sleep</string>
+    <string name="four_primitive_urges3">Sex</string>
+    <string name="four_primitive_urges4">Self-Preservation</string>
+
+    <string name="jnanendriyas">Five Cognitive Senses</string>
+    <string name="jnanendriyas1">Seeing</string>
+    <string name="jnanendriyas2">Hearing</string>
+    <string name="jnanendriyas3">Touching</string>
+    <string name="jnanendriyas4">Tasting</string>
+    <string name="jnanendriyas5">Smelling</string>
+
+    <string name="karmendriyas">Five Active Senses</string>
+    <string name="karmendriyas1">Speaking</string>
+    <string name="karmendriyas2">Grasping</string>
+    <string name="karmendriyas3">Procreating</string>
+    <string name="karmendriyas4">Eliminating</string>
+    <string name="karmendriyas5">Moving</string>
+
+    <string name="five_vayus">Five Vayus</string>
+    <string name="five_vayus1">Prana</string>
+    <string name="five_vayus2">Apana</string>
+    <string name="five_vayus3">Udana</string>
+    <string name="five_vayus4">Samana</string>
+    <string name="five_vayus5">Vyana</string>
+
+    <string name="five_elements">Five Elements</string>
+    <string name="five_elements1">Earth</string>
+    <string name="five_elements2">Water</string>
+    <string name="five_elements3">Fire</string>
+    <string name="five_elements4">Air</string>
+    <string name="five_elements5">Space</string>
+
+    <string name="three_gunas">Three Gunas</string>
+    <string name="three_gunas1">Sattva</string>
+    <string name="three_gunas2">Rajas</string>
+    <string name="three_gunas3">Tamas</string>
+
+    <string name="circle_chart">Circle Chart</string>
+    <string name="circle_chart1">Actions</string>
+    <string name="circle_chart2">Senses</string>
+    <string name="circle_chart3">Body</string>
+    <string name="circle_chart4">Breath</string>
+    <string name="circle_chart5">Conscious Mind</string>
+    <string name="circle_chart6">Active Unconscious Mind</string>
+    <string name="circle_chart7">Latent Unconscious Mind</string>
+    <string name="circle_chart8">Center of Consciousness</string>
+
+
+    <string name="five_kinds_of_thoughts">Five Kinds Of Thoughts</string>
+    <string name="five_kinds_of_thoughts1">Pramana/Correct</string>
+    <string name="five_kinds_of_thoughts2">Viparyaya/Incorrect</string>
+    <string name="five_kinds_of_thoughts3">Vikalpa/Fantasy</string>
+    <string name="five_kinds_of_thoughts4">Nidra/Sleep</string>
+    <string name="five_kinds_of_thoughts5">Smriti/Memory</string>
+
+    <string name="five_kleshas">Five Kleshas</string>
+    <string name="five_kleshas1">Avidya/Ignorance</string>
+    <string name="five_kleshas2">Asmita/I-ness</string>
+    <string name="five_kleshas3">Raga/Attraction</string>
+    <string name="five_kleshas4">Dvesha/Aversion</string>
+    <string name="five_kleshas5">Abhinivesha/Fear</string>
+
+    <string name="four_stages_of_kleshas">Four Stages of Kleshas</string>
+    <string name="four_stages_of_kleshas1">Udaram/Active</string>
+    <string name="four_stages_of_kleshas2">Vicchinna/Separated</string>
+    <string name="four_stages_of_kleshas3">Tanu/Attenuated</string>
+    <string name="four_stages_of_kleshas4">Parsupta/Dormant</string>
+
+    <string name="four_kinds_of_avidya">Four Kinds of Avidya</string>
+    <string name="four_kinds_of_avidya1">Temporary/Eternal</string>
+    <string name="four_kinds_of_avidya2">Impure/Pure</string>
+    <string name="four_kinds_of_avidya3">Pain/Pleasure</string>
+    <string name="four_kinds_of_avidya4">Not-self/Self</string>
+
+    <string name="eight_rungs_of_yoga">Eight Rungs of Yoga</string>
+    <string name="eight_rungs_of_yoga1">Yamas</string>
+    <string name="eight_rungs_of_yoga2">Niyamas</string>
+    <string name="eight_rungs_of_yoga3">Asana</string>
+    <string name="eight_rungs_of_yoga4">Pranayama</string>
+    <string name="eight_rungs_of_yoga5">Pratyahara</string>
+    <string name="eight_rungs_of_yoga6">Dharana</string>
+    <string name="eight_rungs_of_yoga7">Dhyana</string>
+    <string name="eight_rungs_of_yoga8">Samadhi</string>
+
+    <string name="five_yamas">Five Yamas</string>
+    <string name="five_yamas1">Ahimsa/Non-Harming</string>
+    <string name="five_yamas2">Satya/Truthfulness</string>
+    <string name="five_yamas3">Asteya/Non-Stealing</string>
+    <string name="five_yamas4">Brahmacharya/Walking with awareness</string>
+    <string name="five_yamas5">Aparigraha/Non-Possessiveness</string>
+
+
+    <string name="five_niyamas">Five Niyamas</string>
+    <string name="five_niyamas1">Saucha/Purity</string>
+    <string name="five_niyamas2">Santosha/Contentment</string>
+    <string name="five_niyamas3">Tapas/Training the senses</string>
+    <string name="five_niyamas4">Svadyaya/Self-Study</string>
+    <string name="five_niyamas5">Ishvara Pranidhana/Surrender</string>
+
+    <string name="seven_chakras">Chakras</string>
+    <string name="seven_chakras1">Muladhara</string>
+    <string name="seven_chakras2">Swadisthana</string>
+    <string name="seven_chakras3">Manipura</string>
+    <string name="seven_chakras4">Anahata</string>
+    <string name="seven_chakras5">Vishuddha</string>
+    <string name="seven_chakras6">Ajna</string>
+    <string name="seven_chakras7">Sahasrara</string>
+
+    <string name="source_of_karma">Source of Karma</string>
+    <string name="source_of_karma1">Actions/Speech/Thought</string>
+    <string name="source_of_karma2">Ahamkara/Ego</string>
+    <string name="source_of_karma3">Fulfilled/Unfulfilled</string>
+    <string name="source_of_karma4">Kama/Desire</string>
+    <string name="source_of_karma5">Samskaras</string>
+    <string name="source_of_karma6">Primitive Urges</string>
+    <string name="source_of_karma7">Avidya</string>
+    <string name="source_of_karma8">Cen</string>
+
+    <string name="doshas">Doshas of Ayurveda</string>
+    <string name="doshas1">Vata</string>
+    <string name="doshas2">Pitta</string>
+    <string name="doshas3">Kapha</string>
+
+    <string name="skip_intro">Skip Intro</string>
+    <string name="finish">Finish</string>
+    <string name="hello">Hi</string>
+    <string name="assessment_completed">Assessment Completed</string>
+    <string name="overall_thoughts">Any Overall Thoughts?</string>
+    <string name="save">Save</string>
+    <string name="to_start_a_new_assessment">To start a new assessment press the button on the bottom right</string>
+    <string name="exit_without_saving_assignment">Do you want to exit without saving this assessment?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete_assessment">Do you want to delete this assessment?</string>
+
+
+</resources>
+
+

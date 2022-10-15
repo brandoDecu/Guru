@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AssessmentFragments.Assessment4Fragment">
+
+    <TextView
+        android:id="@+id/assesment_instructions_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/pixels32"
+        android:text="@string/assessment_instructions"
+        android:textAlignment="center"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/assesment_lots_of_jargon_tv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/pixels32"
+        android:layout_marginRight="@dimen/pixels32"
+        android:layout_weight="1"
+        android:text="@string/assessment_lots_of_jargon"
+        android:textAlignment="center"
+        android:textSize="18sp" />
+</LinearLayout>

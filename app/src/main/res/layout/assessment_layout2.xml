@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AssessmentFragments.Assessment2Fragment">
+
+    <TextView
+        android:id="@+id/for_each_of_the_areas_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/pixels8"
+        android:layout_marginTop="@dimen/pixels32"
+        android:layout_marginRight="@dimen/pixels8"
+        android:layout_marginBottom="@dimen/pixels16"
+        android:text="@string/assessment_for_each_of_the_areas"
+        android:textAlignment="center"
+        android:textSize="@dimen/pixels24" />
+
+    <TextView
+        android:id="@+id/areas_of_assessment_bullet_1_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/pixels4"
+        android:text="@string/areas_of_assessment_bullet_1"
+        android:textAlignment="center"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/areas_of_assessment_bullet_2_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/pixels4"
+        android:text="@string/areas_of_assessment_bullet_2"
+        android:textAlignment="center"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/areas_of_assessment_bullet_3_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/pixels4"
+        android:text="@string/areas_of_assessment_bullet_3"
+        android:textAlignment="center"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/areas_of_assessment_bullet_4_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/pixels4"
+        android:text="@string/areas_of_assessment_bullet_4"
+        android:textAlignment="center"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/areas_of_assessment_bullet_5_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/pixels4"
+        android:text="@string/areas_of_assessment_bullet_5"
+        android:textAlignment="center"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/areas_of_assessment_bullet_6_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/pixels4"
+        android:text="@string/areas_of_assessment_bullet_6"
+        android:textAlignment="center"
+        android:textSize="18sp" />
+
+</LinearLayout>

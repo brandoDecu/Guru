@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".LoginRegister.Login">
+
+    <View
+        android:id="@+id/view9"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="@dimen/pixels16"
+        android:layout_weight="2"
+        android:scaleType="centerInside"
+        android:src="@drawable/meditator_white" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5"
+        android:orientation="vertical">
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="?android:attr/progressBarStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/pixels32"
+            android:visibility="gone" />
+
+        <EditText
+            android:id="@+id/email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/pixels16"
+            android:layout_marginTop="@dimen/pixels16"
+            android:layout_marginRight="@dimen/pixels16"
+            android:ems="10"
+            android:hint="@string/email"
+            android:inputType="textEmailAddress" />
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/pixels16"
+            android:layout_marginTop="@dimen/pixels8"
+            android:layout_marginRight="@dimen/pixels16"
+            android:ems="10"
+            android:hint="@string/password"
+            android:inputType="textPassword" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/register_login"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/pixels16"
+            android:layout_marginTop="@dimen/pixels8"
+            android:layout_marginRight="@dimen/pixels16"
+            android:text="@string/login" />
+
+        <TextView
+            android:id="@+id/wrong_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/pixels16"
+            android:layout_marginTop="@dimen/pixels8"
+            android:layout_marginRight="@dimen/pixels16"
+            android:gravity="center"
+            android:text="@string/incorrect_password"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/forgot_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/pixels16"
+            android:layout_marginTop="@dimen/pixels8"
+            android:layout_marginRight="@dimen/pixels16"
+            android:clickable="true"
+            android:gravity="center"
+            android:text="@string/forgot_password"
+            android:visibility="visible" />
+
+        <View
+            android:id="@+id/view7"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2" />
+
+        <TextView
+            android:id="@+id/or"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/pixels16"
+            android:layout_marginTop="@dimen/pixels8"
+            android:layout_marginRight="@dimen/pixels16"
+            android:gravity="center"
+            android:text="@string/or"
+            android:visibility="visible" />
+
+        <Button
+            android:id="@+id/login_register_page"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/pixels32"
+            android:layout_marginRight="@dimen/pixels32"
+            android:text="@string/create_a_new_account" />
+
+        <View
+            android:id="@+id/view8"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+</LinearLayout>

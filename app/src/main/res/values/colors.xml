@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="rajas">#fed97f</color>
+    <color name="rajasdark">#ce992f</color>
+    <color name="swamiScarlet">#9b2747</color>
+
+    <color name="asparagusDark">#5f9049</color>
+    <color name="asparagus">#bFf0a9</color>
+    <color name="swamiOrange">#ff9e45</color>
+
+    <color name="stormy">#acafbf</color>
+    <color name="lilla">#5c6672</color>
+    <color name="shockingYellow">#e2ef70</color>
+
+
+    <color name="sky">#83d2fe</color>
+    <color name="skyDark">#3fada8</color>
+    <color name="brightSky">#aaeeff</color>
+    <color name="navy">#23225e</color>
+
+
+    <color name="yellowOrange">#ffbc42</color>
+
+    <color name="lavander">#dec1ff</color>
+    <color name="lavanderDark">#ae71af</color>
+    <color name="beige">#e0d1aa</color>
+
+    <color name="emerald">#59ccaa</color>
+    <color name="emeraldDark">#008c5a</color>
+    <color name="vermilion">#f0514a</color>
+
+    <color name="white">#ffffff</color>
+    <color name="lightGrey">#bbbbbb</color>
+    <color name="grey">#808080</color>
+    <color name="mediumGray">#666666</color>
+    <color name="black">#000000</color>
+
+    <color name="whiteTransparent">#80FFFFFF</color>
+    <color name="blackTransparent">#50000000</color>
+    <color name="transparent">#00000000</color>
+
+
+
+
+
+
+
+    <color name="colorPrimary">@color/beige</color>
+    <color name="colorPrimaryDark">@color/skyDark</color>
+
+
+</resources>

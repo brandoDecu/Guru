@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AssessmentFragments.Assessment3Fragment">
+
+    <TextView
+        android:id="@+id/frequency_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/pixels8"
+        android:layout_marginTop="@dimen/pixels32"
+        android:layout_marginRight="@dimen/pixels8"
+        android:layout_marginBottom="@dimen/pixels16"
+        android:text="@string/frequency_of_assessments"
+        android:textAlignment="center"
+        android:textSize="@dimen/pixels24" />
+
+    <TextView
+        android:id="@+id/frequency_tv1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/pixels4"
+        android:layout_marginTop="@dimen/pixels4"
+        android:layout_marginRight="@dimen/pixels4"
+        android:layout_marginBottom="@dimen/pixels4"
+        android:text="@string/frequency_bullet1"
+        android:textAlignment="center"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/frequency_tv2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/pixels4"
+        android:text="@string/frequency_bullet2"
+        android:textAlignment="center"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/frequency_tv3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/pixels4"
+        android:text="@string/frequency_bullet3"
+        android:textAlignment="center"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/frequency_tv4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/pixels4"
+        android:text="@string/frequency_bullet4"
+        android:textAlignment="center"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/frequency_tv5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/pixels4"
+        android:text="@string/frequency_bullet5"
+        android:textAlignment="center"
+        android:textSize="18sp" />
+
+</LinearLayout>
